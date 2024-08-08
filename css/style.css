@@ -305,6 +305,8 @@ audio {
   font-size: 18px;
   width: 100%;
   height: 100%;
+  padding: 9px 33px;
+  border-radius: 25px;
 }
 .main-end {
   text-align: center;
