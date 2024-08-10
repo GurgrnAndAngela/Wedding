@@ -3,7 +3,7 @@ const audio = document.querySelector('audio')
 const dateElements = document.querySelectorAll('.js-date')
 
 let currentDate = new Date()
-let weddingDate = new Date(2024, 11, 11) 
+let weddingDate = new Date(2024, 10, 11) 
 
 let start = Date.parse(currentDate)
 let end = Date.parse(weddingDate)
